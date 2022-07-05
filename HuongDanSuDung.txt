@@ -1,0 +1,5 @@
+B1: chạy file script.sql
+B2: chạy file setup
+b3: sau khi cài đặt truy cập "C:\Program Files (x86)\Poppy\Setup" tìm kiếm file "conn.txt" cấp quyền với group là
+ "Everyone" với permissions là "Fullcontrol"
+b4: cài devexpress
